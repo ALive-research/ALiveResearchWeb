@@ -2,5 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: page
+title: About
+sidebar_link: true
 ---
+
+## What is ALive?
+
+ALive is a research project
