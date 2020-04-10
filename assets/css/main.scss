@@ -1,0 +1,24 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$sidebar-bg-color: white;
+$sidebar-sticky: false;
+$sidebar-title-color: #8388fcff;
+$sidebar-text-color: black;
+
+@font-face {
+    font-family: 'dosissemibold';
+    src: url('/assets/fonts/dosis-semibold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/dosis-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.site-title{
+    font-family: dosissemibold !important;
+}
+
+
+@import "hydeout";
+
