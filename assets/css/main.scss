@@ -7,6 +7,8 @@ $sidebar-sticky: false;
 $sidebar-title-color: #8388fcff;
 $sidebar-text-color: black;
 
+@import "hydeout";
+
 @font-face {
     font-family: 'dosissemibold';
     src: url('/assets/fonts/dosis-semibold-webfont.woff2') format('woff2'),
@@ -21,7 +23,7 @@ $sidebar-text-color: black;
 }
 
 .lead {
-    font-size: 1rem !important;
+    font-size: 1rem;
 }
 
 img.logo {
@@ -29,9 +31,39 @@ img.logo {
 }
 
 #sidebar .page-link {
-    color: black !important;
+    color: black;
 }
 
+.content {
+    font-family: 'Gentium Basic', serif;
+    font-size: .8rem;
+}
 
-@import "hydeout";
+.content > h1 {
+    font-size: 1.1rem;
+    font-family: dosissemibold;
+}
 
+.content > p {
+    margin-bottom: .5rem;
+}
+
+.content > ul > li {
+    margin-bottom: 0;
+}
+
+.content > ul > li > p {
+    margin-bottom: 0 !important;
+}
+
+.page-title {
+    font-size: 1.4rem;
+}
+
+img[alt="ALive organization"] { width: 60%; }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
