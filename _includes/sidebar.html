@@ -4,7 +4,7 @@
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
-          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+        <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
         {{ site.title }}
       </a>
@@ -14,9 +14,16 @@
   {% include sidebar-nav-links.html %}
 
   {% if site.version %}
-    <span class="site-version">Currently v{{ site.version }}</span>
+  <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
 
   {% include sidebar-icon-links.html %}
-  {% include copyright.html %}
+
+    <img src="/assets/img/ivs_logo.png" alt="The Intervention Centre. Oslo University Hospital" width="150px">
+    <img src="/assets/img/ntnu_logo.png" alt="NTNU" width="150px">
+    <img src="/assets/img/sintef_logo.png" alt="SINTEF" width="150px">
+    <img src="/assets/img/uco_logo.png" alt="University of Cordoba" width="150px">
+    <img src="/assets/img/rcn_logo.png" alt="Financed by The Research Council of Norway" width="150px">
+
+    {% include copyright.html %}
 </div>
