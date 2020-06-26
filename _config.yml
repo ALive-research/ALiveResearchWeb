@@ -32,6 +32,10 @@ theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
+# Enable github icon
+hydeout:
+  -repo: https://github.com/ALive-research
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

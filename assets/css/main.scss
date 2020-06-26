@@ -67,3 +67,48 @@ img[alt="ALive organization"] { width: 60%; }
     margin: 0 auto;
     display: block;
 }
+
+.peoplepicright
+{
+    float:right;
+    width: 150px;
+    margin:0px;
+    margin-left:30px;
+    padding-bottom:30px;
+}
+
+.peoplepicleft
+{
+    float:left;
+    width: 150px;
+    margin:0px;
+    margin-right: 30px;
+    padding-bottom:30px;
+}
+
+.clear
+{
+    clear:both;
+    padding-top: 50px;
+}
+
+
+#subscribe-link > svg
+{
+    fill: black !important;
+}
+
+#github-link > svg
+{
+    fill: black !important;
+}
+
+a
+{
+    color: black !important;
+}
+
+hr
+{
+    border-top: 1px solid black;
+}
