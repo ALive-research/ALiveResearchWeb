@@ -25,22 +25,25 @@ be **Project Manger** and contribute to the **scientific work-packages** and the
 
 ![Bjørn Edwin](/assets/img/peop_edwin.png){: .peoplepicleft}
 
-Bjørn Edwin, MD, PhD, is hepatopacreatobiliary (HBP) surgeon and
-professor of minimal invasive surgery at The Medical Faculty (University of
-Oslo) and Head of the Section for Clinical Research at The Intervention Centre in
-Oslo University Hospital. Bjørn works with research and development in minimal invasive therapies in
-HPB, colon surgery, urology, transplant rurgery and pediatric surgery. In ALive,
-Bjørn will be leading the **clinical support work package**.
+Bjørn Edwin, MD, PhD, is hepatopacreatobiliary (HBP) surgeon and professor of
+minimal invasive surgery at The Medical Faculty (University of Oslo) and Head of
+the Section for Clinical Research at The Intervention Centre in Oslo University
+Hospital. Bjørn works with research and development in minimal invasive
+therapies in HPB, colon surgery, urology, transplant rurgery and pediatric
+surgery. In ALive, Bjørn will be leading the **clinical support work package**.
 
 ### Ole Jakob Elle
 {: .clear}
 
 ![Ole Jakob Elle](/assets/img/peop_elle.png){: .peoplepicright}
 
-Rafael Palomar, PhD, is research scientist at Oslo University Hospital and has
-interests in _geometric modeling_, _surgical planning_, _medical visualization_
-and _medical software_. In Alive, Rafael will be Project Manger and 
-contribute to the scientific work-packages and the software development.
+Ole J. Elle, PhD, is head of the Medical Robotics, Visualization and Navigation
+at The Intervention Centre, Oslo Univeristy Hospital, and Professor at the
+Department of Informatics at University of Oslo. Ole J. has established a broad
+international network within image-guidedc surgery through a variety of
+research and industrial collaborators. In ALive, Ole J. will be leading the
+**liver surgery planning work package**.
+
 
 ### Thomas Langø
 {: .clear}
@@ -134,15 +137,15 @@ sugery planning, and simulation and navigation in healthcare with focus on
 abdominal minimally invasive procedures. Ejidijus will be participating as a
 researcher in the **clinical support work-package**.
 
-### Åsmund Fretland
-{: .clear}
+<!-- ### Åsmund Fretland -->
+<!-- {: .clear} -->
 
-![Åsmund Fretland](/assets/img/peop_fretland.png){: .peoplepicright}
+<!-- ![Åsmund Fretland](/assets/img/peop_fretland.png){: .peoplepicright} -->
 
 ### Francisco Javier Rodríguez
 {: .clear}
 
-![Francisco Javier Rodríguez](/assets/img/peop_rodriguez.png){: .peoplepicleft}
+![Francisco Javier Rodríguez](/assets/img/peop_rodriguez.png){: .peoplepicright}
 
 Francisco J. Rodríguez is a member of the Department of Electronics and Computer
 Engineering at University of Cordoba, where he is Assistant Professor
@@ -150,12 +153,19 @@ since 2018. He is also member of the Advanced Informatics Research Group at the
 same university and has experience in the fields of computer vision and image
 processing. Francisco J. will be contributing to the translation of research
 results into high-performance computing algorithms as part of the
-high-performance collaboration.
+**high-performance computing collaboration**.
 
 ### Héctor Martínez
 {: .clear}
 
-![Héctor Martínez](/assets/img/peop_martinez.png){: .peoplepicright}
+![Héctor Martínez](/assets/img/peop_martinez.png){: .peoplepicleft}
+
+Héctor Martínez, PhD, is a member of the Department of Electronics and Computer
+Engineering at University of Cordoba, where he is Pos-Doctoral research
+scientist in the Advanced Informatics Research Group. Héctor has experience in
+high-performance computing with applications to DNA/RNA sequencing and epistasis
+detection. In ALive, Héctor will be contributing algorithms as part of the
+**high-performance computing collaboration**.
 
 
 
