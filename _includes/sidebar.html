@@ -1,6 +1,6 @@
 <div id="sidebar">
   <header>
-    <img src="/assets/img/alive_logo.png" alt="Alive logo" class="logo">
+  <img src="{{ "/assets/img/alive_logo.png" | relative_url }}" alt="Alive logo" class="logo">
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
@@ -19,11 +19,11 @@
 
   {% include sidebar-icon-links.html %}
 
-    <img src="/assets/img/ivs_logo.png" alt="The Intervention Centre. Oslo University Hospital" width="150px">
-    <img src="/assets/img/ntnu_logo.png" alt="NTNU" width="150px">
-    <img src="/assets/img/sintef_logo.png" alt="SINTEF" width="150px">
-    <img src="/assets/img/uco_logo.png" alt="University of Cordoba" width="150px">
-    <img src="/assets/img/rcn_logo.png" alt="Financed by The Research Council of Norway" width="150px">
+    <img src="{{ "/assets/img/ivs_logo.png" | relative_url }}" alt="The Intervention Centre. Oslo University Hospital" width="150px">
+    <img src="{{ "/assets/img/ntnu_logo.png" | relative_url }}" alt="NTNU" width="150px">
+    <img src="{{ "/assets/img/sintef_logo.png" | relative_url  }}"alt="SINTEF" width="150px">
+    <img src="{{ "/assets/img/uco_logo.png" | relative_url  }}"alt="University of Cordoba" width="150px">
+    <img src="{{ "/assets/img/rcn_logo.png" | relative_url }}" alt="Financed by The Research Council of Norway" width="150px">
 
     {% include copyright.html %}
 </div>
