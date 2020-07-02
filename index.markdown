@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news 
 title: News
 sidebar_link: true
 ---
