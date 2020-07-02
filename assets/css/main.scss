@@ -112,3 +112,9 @@ hr
 {
     border-top: 1px solid black;
 }
+
+#sidebar
+{
+    overflow: auto !important;
+    height: 100%;
+}
