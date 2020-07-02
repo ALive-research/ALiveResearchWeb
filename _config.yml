@@ -22,8 +22,8 @@ title: ALive
 email: rafael.palomar@rr-research.no
 description: >- # this means to ignore newlines until "baseurl:"
   Analytics for computation and visualization of liver resections
-baseurl: "ALiveResearchWeb" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://alive-research.no" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ALiveResearch
 github_username:  rafaelpalomar
 
