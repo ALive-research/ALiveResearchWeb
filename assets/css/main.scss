@@ -23,12 +23,25 @@ $sidebar-text-color: black;
 }
 
 .lead {
-    font-size: 1rem;
+    font-size: .8rem;
+    font-family: 'Gentium Basic', serif;
 }
 
 img.logo {
-    width:70%;
+    width:30%;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 50px;
 }
+
+@media (min-width: $large-breakpoint) {
+
+    img.logo {
+        width:70%;
+    }
+}
+
+
 
 #sidebar .page-link {
     color: black;
