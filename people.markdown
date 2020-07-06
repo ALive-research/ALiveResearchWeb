@@ -13,8 +13,8 @@ sidebar_link: true
 ![Rafael Palomar](/assets/img/peop_palomar.png){: .peoplepicright}
 
 Rafael Palomar, PhD, is research scientist at The Intervention Centre in Oslo
-University Hospital and has interests in _geometric modeling_, _surgical
-planning_, _medical visualization_ and _medical software_ and counts with 10
+University Hospital and has interests in geometric modeling, surgical
+planning, medical visualization and medical software and counts with 10
 years of professional experience in these fields. In Alive, Rafael will
 be **Project Manger** and contribute to the **scientific work-packages** and the
 **software development**.
@@ -91,7 +91,7 @@ and the **software development**
 ![José Manuel Palomares](/assets/img/peop_palomares.png){: .peoplepicright}
 
 Jose M. Palomares, PhD, is an Associate Professor, who has been working at the
-Electronic and Computer Engineering Department at the Universidad de Córdoba
+Electronic and Computer Engineering Department at the University of Córdoba
 since 2000. Currently, he is teaching Real-Time Systems and Fault-Tolerant
 Systems in the Computer Engineering Degree in the UCO. He is co--founder of the
 Advanced Informatics Research Group in the same university. He has research
