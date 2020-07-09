@@ -26,5 +26,4 @@ from different universities and companies.
 
   - [**PhD on Computational Surgery Planning**](/job/phd-surgery-planning)
 
-  - [**PhD on Analytics for Visualization in Computational Surgical Planning**
-    (coming soon)]()
+  - [**PhD on Analytics for Visualization in Computational Surgical Planning**](/job/phd-analytics-visualization-surgery-planning)
