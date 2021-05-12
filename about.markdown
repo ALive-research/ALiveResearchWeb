@@ -67,6 +67,6 @@ concepts and software by implementing our results using the open-source platform
 &nbsp;
 &nbsp;
 
-![ALive organization](/assets/img/alive_organization.png){: .center-image }
+![ALive organization](/assets/img/alive_organization.png)
 
 

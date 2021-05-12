@@ -13,8 +13,8 @@ sidebar_link: true
 ![Rafael Palomar](/assets/img/peop_palomar.png){: .peoplepicright}
 
 Rafael Palomar, PhD, is research scientist at The Intervention Centre in Oslo
-University Hospital and has interests in geometric modeling, surgical
-planning, medical visualization and medical software and counts with 10
+University Hospital and has interests in _geometric modeling_, _surgical
+planning_, _medical visualization_ and _medical software_ and counts with 10
 years of professional experience in these fields. In Alive, Rafael will
 be **Project Manger** and contribute to the **scientific work-packages** and the
 **software development**.
@@ -56,7 +56,7 @@ techniques, ultrasound guided surgery, minimally invasive techniques, experience
 from clinical testing/studies in the fields of laparoscopic surgery,
 neurosurgery, endovascular therapy and bronchoscopy. This experience includes
 navigation and tracking technology integration with medical image visualization
-and clinical decision support systems. In ALive, Thomas will be involved in the
+and clinical decision support systems. Thomas will be involved in the
 **integration of research into software** as part of the **project management
 work-package**.
 
@@ -91,7 +91,7 @@ and the **software development**
 ![José Manuel Palomares](/assets/img/peop_palomares.png){: .peoplepicright}
 
 Jose M. Palomares, PhD, is an Associate Professor, who has been working at the
-Electronic and Computer Engineering Department at the University of Córdoba
+Electronic and Computer Engineering Department at the Universidad de Córdoba
 since 2000. Currently, he is teaching Real-Time Systems and Fault-Tolerant
 Systems in the Computer Engineering Degree in the UCO. He is co--founder of the
 Advanced Informatics Research Group in the same university. He has research
@@ -108,10 +108,10 @@ computing algorithms as part of the **high-performance computing work-package**.
 
 Rahul P. Kumar, PhD, is a Researcher at The Intervention Centre (Oslo University
 Hospital), working on topics related to medical image segmentation, artificial
-intelligence an mixed reality for medicine. Currently, he is supervising and
+intelligence an mixed reality for medicine. ICurrently, he is supervising and
 guiding PhDs and PostDocon AI based medical image segmentation for liver and
-heart structures, and also leading a project on mixed reality based navigation
-for surgery (LiVIN). In ALive, Rahul will support the research in the **liver
+heart structures, and also leading a project on mixed reality basednavigation
+for surgery (HoloNav). In ALive, Rahul will support the research in the **liver
 surgery planning work-package**.
 
 ### Ole Vegard Solberg
@@ -134,7 +134,7 @@ software development in the **projec management work-package**.
 Egidijus Pelanis, MD, is PhD candidate at The Intervention Centre (Oslo
 University Hospital). His research interesets covers medical visualization,
 sugery planning, and simulation and navigation in healthcare with focus on
-abdominal minimally invasive procedures. Egidijus will be participating as a
+abdominal minimally invasive procedures. Ejidijus will be participating as a
 researcher in the **clinical support work-package**.
 
 <!-- ### Åsmund Fretland -->
@@ -149,9 +149,9 @@ researcher in the **clinical support work-package**.
 
 Francisco J. Rodríguez is a member of the Department of Electronics and Computer
 Engineering at University of Cordoba, where he is Assistant Professor
-since 2018. He is also a member of the Advanced Informatics Research Group at the
+since 2018. He is also member of the Advanced Informatics Research Group at the
 same university and has experience in the fields of computer vision and image
-processing. In ALive, Francisco J. will be contributing to the translation of research
+processing. Francisco J. will be contributing to the translation of research
 results into high-performance computing algorithms as part of the
 **high-performance computing collaboration**.
 
@@ -161,7 +161,7 @@ results into high-performance computing algorithms as part of the
 ![Héctor Martínez](/assets/img/peop_martinez.png){: .peoplepicleft}
 
 Héctor Martínez, PhD, is a member of the Department of Electronics and Computer
-Engineering at University of Cordoba, where he is Post-Doctoral research
+Engineering at University of Cordoba, where he is Pos-Doctoral research
 scientist in the Advanced Informatics Research Group. Héctor has experience in
 high-performance computing with applications to DNA/RNA sequencing and epistasis
 detection. In ALive, Héctor will be contributing algorithms as part of the

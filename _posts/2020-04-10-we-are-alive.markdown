@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We are ALive! The ALive project funded by The Research Council of Norway."
+title:  "We are ALive!: the ALive project funded by The Research Council of Norway."
 date:   2020-04-10 08:45:48 +0200
 categories: funding project
 ---
@@ -12,7 +12,7 @@ has become one of these successful proposasl getting funded by [The Research
 Council of Norway][research-council] through the [IKT-Pluss program][iktpluss].
 
 Through that program, the ALive project has been granted **15M NOK** that will
-help us supporting **2 PhD candidates** and **2 Post-Doctoral researchers**
+help us supporting **2 PhD students** and **2 Pos-Doctoral researchers**
 full-time, as well as their research activities, for three years starting from
 October 2020.
 

@@ -1,5 +1,5 @@
 ---
-layout: news 
+layout: default
 title: News
 sidebar_link: true
 ---
@@ -8,7 +8,7 @@ sidebar_link: true
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}

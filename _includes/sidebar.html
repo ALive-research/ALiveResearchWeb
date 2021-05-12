@@ -1,9 +1,6 @@
 <div id="sidebar">
   <header>
-  
-    <a href="{{ "/" | relative_url }}">
-      <img src="{{ "/assets/img/alive_logo.png" | relative_url }}" alt="Alive logo" class="logo">
-    </a>
+    <img src="/assets/img/alive_logo.png" alt="Alive logo" class="logo">
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
@@ -21,20 +18,12 @@
   {% endif %}
 
   {% include sidebar-icon-links.html %}
-  <a href="https://ivs.no" alt="The Intervention Centre">
-    <img src="{{ "/assets/img/ivs_logo.png" | relative_url }}" alt="The Intervention Centre. Oslo University Hospital" width="150px">
-  </a>
-  <a href="https://ntnu.no" alt="NTNU">
-    <img src="{{ "/assets/img/ntnu_logo.png" | relative_url }}" alt="NTNU" width="150px">
-  </a>
-  <a href="https://sintef.no" alt="SINTEF">
-    <img src="{{ "/assets/img/sintef_logo.png" | relative_url  }}" alt="SINTEF" width="150px">
-  </a>
-  <a href="https://www.uco.es" alt="University of Cordoba">
-    <img src="{{ "/assets/img/uco_logo.png" | relative_url  }}" alt="University of Cordoba" width="150px">
-  </a>
-  <a href="https://www.forskningsradet.no/en" alt="The Research Council of Norway">
-    <img src="{{ "/assets/img/rcn_logo.png" | relative_url }}" alt="Financed by The Research Council of Norway" width="150px">
-  </a>
-{% include copyright.html %}
+
+    <img src="/assets/img/ivs_logo.png" alt="The Intervention Centre. Oslo University Hospital" width="150px">
+    <img src="/assets/img/ntnu_logo.png" alt="NTNU" width="150px">
+    <img src="/assets/img/sintef_logo.png" alt="SINTEF" width="150px">
+    <img src="/assets/img/uco_logo.png" alt="University of Cordoba" width="150px">
+    <img src="/assets/img/rcn_logo.png" alt="Financed by The Research Council of Norway" width="150px">
+
+    {% include copyright.html %}
 </div>
